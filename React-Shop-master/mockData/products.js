@@ -8,6 +8,10 @@ export const products = [{
     image: "https://gdg-react-workshop.s3.amazonaws.com/tomato.JPG"
 },{
     name: "Bread",
+    name: "Tomatoes",
+                                  name: "Tomatoes",
+    image: "https://gdg-react-workshop.s3.amazonaws.com/tomato.JPG"
+},{
     image: "https://gdg-react-workshop.s3.amazonaws.com/bread.JPG"
 }, {
     name: "Breakfast cereal",
